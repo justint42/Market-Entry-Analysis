@@ -4,8 +4,12 @@
 
 ### Purpose 
 
+One of the key ingredients of experiencing the urban sprawl is simply the ability the see it. Sometimes, conventional public transportation simply does not make the cut for people as time goes on. This is true for moany New York Ciy residents. "CitiBike", an established faux bike-rental company based in NYC wishes to expand to Des Moines, Iowa. 
 
-The purpose of this challenge is to educate the user in Tableau by simulating a proposal for CitiBike to place their product in Des Moines, Iowa using visualizations from historical data as justification. 
+To justify the seed funding to explore a bike-sharing program in Des Moines, we must identify the differing mechanics in how this would operate in this new city. For this analysis, I showed count of checked bikes for all NYC riders and genders for each hour of each day of the week. 
+
+This project represents the beginnings stages of this business venture.
+
 
 The Tableau story can be seen [here.](https://public.tableau.com/app/profile/justint42/viz/CitiBike_Challenge_16634725366380/NYCCitiBikeAnalysisChallenge?publish=yes "here.")
 
@@ -40,6 +44,6 @@ Most consumers tend to be subscribers.
 
 ## Summary
 
-From the data, we can surmise that users use the service during the mornings and evening rush hours. CitiBike services are an ideal alternative to public transportation during weekdays and for leisure during the weekend. 
+From the data, we can surmise that users use the service during the mornings and evening rush hours. CitiBike services are an ideal alternative to public transportation during weekdays and for leisure during the weekend. What are the parallels between NYC and Des Moines?
 
 CitiBike can gain further insight by creating visualizations for different months to find trends across the entire year. Another suggestion would be to find ride data among other cities more like Des Moines (lower population, urban density).
