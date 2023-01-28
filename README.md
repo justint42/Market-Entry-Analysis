@@ -8,7 +8,7 @@ One of the key ingredients of experiencing the urban sprawl is simply the abilit
 
 To justify the seed funding to explore a bike-sharing program in Des Moines, we must identify the differing mechanics in how this would operate in this new city. For this analysis, I showed count of checked bikes for all NYC riders and genders for each hour of each day of the week. 
 
-This project represents the beginnings stages of this business venture.
+This project represents the beginning stages of this business venture.
 
 
 The Tableau story can be seen [here.](https://public.tableau.com/app/profile/justint42/viz/CitiBike_Challenge_16634725366380/NYCCitiBikeAnalysisChallenge?publish=yes "here.")
