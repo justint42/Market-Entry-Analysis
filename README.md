@@ -9,7 +9,7 @@ One of the key ingredients of experiencing (or simply dealing with) the urban sp
 To justify the seed funding to explore a bike-sharing program in Des Moines, we must identify the differing mechanics in how this would operate in this new city. For this analysis, I showed count of checked bikes for all NYC riders and genders for each hour of each day of the week. 
 
 This project represents the beginning stages (the 
-"NYC Stage" of this business venture.
+"NYC Stage") of this business venture.
 
 
 The Tableau story can be seen [here.](https://public.tableau.com/app/profile/justint42/viz/CitiBike_Challenge_16634725366380/NYCCitiBikeAnalysisChallenge?publish=yes "here.")
