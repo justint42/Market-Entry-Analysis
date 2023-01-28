@@ -24,7 +24,7 @@ Manhattan's sprawling urban landscape and density allows for a healthy means for
 
 <img width="646" alt="Checkout Times" src="https://user-images.githubusercontent.com/106895220/190885871-6e8a7364-9a90-4189-b032-a4e2e8004c79.png">
 
-Five minutes is the most common average time for bike-sharing. Consumers mostly use us for short-term travel. Time tapers off at around the 20 minute mark.
+Five minutes is the most common average time for bike-sharing. Consumers mostly use Citibike for short-term travel. Time tapers off at around the 20 minute mark.
 
 <img width="648" alt="Checkout Times by Gender" src="https://user-images.githubusercontent.com/106895220/190885872-e18d6cd8-0d38-4a45-91a4-99eecd7d72f5.png">
 
