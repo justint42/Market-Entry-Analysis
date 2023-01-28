@@ -41,7 +41,7 @@ Trends for gender mirror each other, though in softer parallels.
 <img width="701" alt="User Trips by Gender" src="https://user-images.githubusercontent.com/106895220/190885922-e23cb7e2-f8a1-4d68-b54f-3421abec527e.png">
 
 
-Most consumers tend to be subscribers.
+Most persisting costomers tend to also be subscribers. 
 
 ## Summary
 
