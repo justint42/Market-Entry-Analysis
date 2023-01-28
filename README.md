@@ -4,7 +4,7 @@
 
 ### Purpose 
 
-One of the key ingredients of experiencing (or simply dealing with) the urban sprawl is simply the ability the traverse it. Sometimes, conventional public transportation simply does not make the cut for people as time goes on. This is true for moany New York Ciy residents. "CitiBike", an established faux bike-rental company based in NYC wishes to expand to Des Moines, Iowa. 
+One of the key ingredients of experiencing (or simply dealing with) the urban sprawl is simply the ability the traverse it. Sometimes, conventional public transportation simply does not make the cut for some people. This is true for moany New York Ciy residents. "CitiBike", an established faux bike-rental company based in NYC wishes to expand to Des Moines, Iowa. 
 
 To justify the seed funding to explore a bike-sharing program in Des Moines, we must identify the differing mechanics in how this would operate in this new city. For this analysis, I showed count of checked bikes for all NYC riders and genders for each hour of each day of the week. 
 
